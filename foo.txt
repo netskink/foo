@@ -1,5 +1,3 @@
 This is foo.txt as added in foo repo
-This is a line added while inj the bar repo
-This is a change
 This is a change
 
